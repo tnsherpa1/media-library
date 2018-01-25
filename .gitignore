@@ -67,3 +67,4 @@ bower.json
 # Ignore Byebug command history file.
 >>>>>>> d2ab075c4f01c8d7daa3ad2861f4ad04cb7f5e8d
 .byebug_history
+.env
